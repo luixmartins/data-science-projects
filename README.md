@@ -2,7 +2,7 @@
 
 ### Here in this repository you find my projects in data science. 
 
-## Topics:
+## Topics
 * Natural language processing 
 * Text classification 
 * Churn prediction 
